@@ -1,0 +1,1 @@
+"C:\app\steamcmd\nmrihsrv\nmrih\addons\sourcemod\scripting\include\version_auto.inc" 318 2015/05/30 5:09:24 
